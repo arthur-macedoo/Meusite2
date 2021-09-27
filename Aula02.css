@@ -1,0 +1,55 @@
+body {background-image: url(https://sm.ign.com/t/ign_br/news/f/fallout-3-/fallout-3-broken-steel-train-is-actually-just-a-gi_y4nq.1280.jpg);
+}
+
+h1 {color: #011638;
+    text-align: center;
+    font-size: x-large;
+    background-color: red;
+    font-family: Arial;
+    float: left;
+    width: 100px;
+    width: 2em;
+    width: 18%;
+    padding: 5px;
+    height: 20%;
+    margin-bottom: 20%;
+    margin-right: 15%;
+}
+
+h2 {color: #011638;
+    font-size: x-large;
+    background-color: blue;
+    font-family: Helvetica;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    text-align: center;
+    float: right;
+    width: 20%;
+    padding: 5px;
+    margin-bottom: 20%;
+    margin-left: 15%;
+}
+
+h3 {color: #011638;
+    font-size: x-large;
+    background-color: yellow;
+    font-family: Helvetica;
+    float: left;
+    text-align: center;
+    width: 19%;
+    padding: 5px;
+    margin-top: 20%;
+    margin-right: 15%;
+}
+
+h4 {color: #011638;
+    font-size: x-large;
+    background-color: green;
+    font-family: Arial;
+    float: right;
+    text-align: center;
+    width: 32%;
+    padding: 5px;
+    margin-top: 20%;
+    margin-left: 15%;
+}
